@@ -1,3 +1,4 @@
 import { App } from '../app/App.js';
 
-new App();
+let app = new App();
+console.log(app)
